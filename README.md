@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Assemble a traceable reporting package and separate release state from arithmetic success.
-- A Financial integration needs to reuse the capabilities of @x12i/financial-reporting inside a larger application.
+- Assemble measures and provenance into one reporting artifact.
+- Detect disagreements between component bases before marking an artifact ready for release.
 
 ## Links
 
